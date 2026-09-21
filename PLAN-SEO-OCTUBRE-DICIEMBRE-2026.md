@@ -30,7 +30,7 @@ Responder intención turística y práctica:
 - bajo presupuesto
 - agenda
 
-## Prioridad inmediata — septiembre / octubre
+## Prioridad inmediata — octubre
 
 ### Nuevas páginas
 
@@ -267,6 +267,8 @@ Repositorio: `FitoGirolami/LaCasaDelDuende`
 
 Ya existe una biblioteca SEO extensa y una página de septiembre:
 `que-hacer-en-banos-septiembre.html`.
+
+**La estrategia de septiembre queda cerrada y no se modifica.** No se crearán nuevas páginas de septiembre ni se reescribirá la landing existente salvo correcciones técnicas imprescindibles.
 
 No convertir este dominio en otra guía turística general.
 
@@ -528,7 +530,23 @@ Distribución
 
 ---
 
-# 15. PRIMERA SEMANA DE EJECUCIÓN
+# 15. REGLA DE CORTE TEMPORAL
+
+## Septiembre
+
+- Se mantiene exactamente como está.
+- No crear nuevas landings SEO de septiembre.
+- No reciclar contenido de septiembre para octubre.
+- No cambiar URLs ya publicadas.
+- Solo admitir correcciones técnicas críticas si aparecieran errores de indexación, canonical, sitemap o enlaces rotos.
+
+## Octubre, noviembre y diciembre
+
+Toda la expansión SEO nueva comienza en octubre y debe mantener URLs, intención de búsqueda y contenido diferenciados por mes.
+
+---
+
+# 16. PRIMERA SEMANA DE EJECUCIÓN
 
 Orden recomendado:
 
