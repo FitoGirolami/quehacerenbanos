@@ -18,4 +18,29 @@
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
+
+  <url>
+    <loc>https://quehacerenbanos.com/banos-con-ninos.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://quehacerenbanos.com/que-hacer-en-banos-si-llueve.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://quehacerenbanos.com/turismo-cultural-en-banos.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.94</priority>
+  </url>
+  <url>
+    <loc>https://quehacerenbanos.com/fiestas-virgen-agua-santa-banos.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.93</priority>
+  </url>
 </urlset>
