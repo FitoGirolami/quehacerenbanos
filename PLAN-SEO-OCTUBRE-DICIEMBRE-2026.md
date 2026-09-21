@@ -163,7 +163,103 @@ No crear artículos SEO duplicados aquí.
 
 ---
 
-# 4. LACASADELDUENDE.ART — HUB DE ARTE, INVESTIGACIÓN E HISTORIA
+# 4. TURISMOTUNGURAHUA.COM — HUB TURÍSTICO PROVINCIAL
+
+Repositorio: `FitoGirolami/turismotungurahua.com`
+
+## Situación actual
+
+Ya existe una arquitectura turística consolidada con páginas sobre:
+
+- Baños de Agua Santa
+- qué hacer en Baños
+- cascadas
+- termas
+- aventura
+- miradores
+- historia
+- duendes
+- agenda cultural
+- estudios
+- versiones en inglés con hreflang
+
+Por eso **no debe duplicar las nuevas landings prácticas de quehacerenbanos.com**.
+
+## Función
+
+Captar búsquedas turísticas amplias y provinciales, explicar por qué visitar cada lugar y derivar hacia recursos locales más específicos cuando el usuario necesita planificación detallada.
+
+### Octubre
+
+Actualizar:
+- `/banos-de-agua-santa/`
+- `/que-hacer-en-banos-ecuador/`
+- `/agenda-cultural/`
+
+Agregar módulos contextuales:
+- **Planifica tu visita a Baños en octubre**
+- **Guía local actualizada de Baños**
+- **Turismo cultural en Baños**
+
+Enlaces sugeridos:
+- `https://quehacerenbanos.com/que-hacer-en-banos-octubre-2026.html`
+- `https://quehacerenbanos.com/turismo-cultural-en-banos.html`
+- `https://quehacerenbanos.com/banos-en-un-dia.html`
+
+Publicar una pieza propia:
+**Octubre en Baños de Agua Santa: naturaleza, fe, cultura y recorridos**
+
+Debe ser una guía provincial/editorial, no una copia de la landing mensual.
+
+### Noviembre
+
+Publicar:
+- **Feriado de noviembre en Tungurahua: cómo combinar Baños, Patate, Pelileo y Ambato**
+- **Baños como puerta de entrada al corredor oriental de Tungurahua**
+- **Naturaleza y cultura: dos formas de recorrer Baños**
+
+Enlaces contextuales hacia:
+- `/banos-en-dos-dias.html`
+- `/banos-sin-carro.html`
+- `/arte-y-artesanos-de-banos.html`
+
+### Diciembre
+
+Publicar:
+- **Diciembre en Tungurahua: celebraciones y destinos para recorrer la provincia**
+- **Baños en diciembre: cantonización, ciudad y territorio**
+- **Navidad y fin de año en Tungurahua**
+
+Derivar hacia:
+- `/que-hacer-en-banos-diciembre-2026.html`
+- `/fiestas-cantonizacion-banos-2026.html`
+- `/navidad-en-banos.html`
+- `/ano-nuevo-en-banos.html`
+
+## Inglés
+
+TurismoTungurahua tiene una ventaja especial: ya posee estructura bilingüe.
+
+Mantener las guías provinciales en inglés y, cuando exista una versión local en inglés de Qué Hacer en Baños, enlazar a ella mediante anchor natural como:
+- local guide to Baños
+- things to do in Baños
+- cultural activities in Baños
+- plan your visit to Baños
+
+No traducir automáticamente todas las páginas mensuales si no pueden mantenerse actualizadas.
+
+## Relación con Qué Hacer en Baños
+
+**Turismo Tungurahua explica el destino.  
+Qué Hacer en Baños resuelve el viaje.**
+
+Ejemplo:
+
+> Baños de Agua Santa concentra naturaleza, termas, aventura, cultura y recorridos urbanos. Para horarios, actividades por fecha, opciones familiares y propuestas según el clima, consulta la guía local actualizada de Qué Hacer en Baños.
+
+---
+
+# 5. LACASADELDUENDE.ART — HUB DE ARTE, INVESTIGACIÓN E HISTORIA
 
 Repositorio: `FitoGirolami/LaCasaDelDuende`
 
@@ -210,7 +306,7 @@ Enlace:
 
 ---
 
-# 5. ALDEAMAGICA.ART — HUB EXPERIENCIAL Y FAMILIAR
+# 6. ALDEAMAGICA.ART — HUB EXPERIENCIAL Y FAMILIAR
 
 Repositorio: `FitoGirolami/aldeamagica.art`
 
@@ -262,7 +358,7 @@ Solo si existe programación real. Si no existe, usar contenido evergreen sobre 
 
 ---
 
-# 6. MEDIUM — CAPA NARRATIVA
+# 7. MEDIUM — CAPA NARRATIVA
 
 ## Función
 
@@ -284,7 +380,7 @@ Cada texto puede tener **1 enlace editorial** hacia la página más relacionada 
 
 ---
 
-# 7. OCI / ZENODO — CAPA DOCUMENTAL
+# 8. OCI / ZENODO — CAPA DOCUMENTAL
 
 ## Función
 
@@ -303,7 +399,7 @@ No subir documentos creados solo para conseguir backlinks.
 
 ---
 
-# 8. FACEBOOK
+# 9. FACEBOOK
 
 ## Octubre
 
@@ -332,7 +428,7 @@ Cada publicación enlaza a **la URL específica**, no siempre a la portada.
 
 ---
 
-# 9. TIKTOK / REELS
+# 10. TIKTOK / REELS
 
 Formato pregunta-respuesta:
 
@@ -348,7 +444,7 @@ CTA:
 
 ---
 
-# 10. YOUTUBE
+# 11. YOUTUBE
 
 Cada video relacionado con Baños debe incluir en descripción:
 
@@ -366,7 +462,7 @@ Temas:
 
 ---
 
-# 11. RADIO SOY TUNGURAHUA
+# 12. RADIO SOY TUNGURAHUA
 
 Cada cápsula obtiene una ficha web.
 
@@ -379,7 +475,7 @@ Estructura:
 
 ---
 
-# 12. REGLAS DEL ECOSISTEMA
+# 13. REGLAS DEL ECOSISTEMA
 
 ## No hacer
 
@@ -404,7 +500,7 @@ Estructura:
 
 ---
 
-# 13. FLUJO EDITORIAL
+# 14. FLUJO EDITORIAL
 
 Investigación / documentación
 → OCI / Zenodo
@@ -415,7 +511,10 @@ Narrativa / interpretación
 Territorio
 → Soy Tungurahua
 
-Información práctica
+Turismo provincial / descubrimiento
+→ Turismo Tungurahua
+
+Información práctica local
 → Qué Hacer en Baños
 
 Experiencia artística
@@ -429,7 +528,7 @@ Distribución
 
 ---
 
-# 14. PRIMERA SEMANA DE EJECUCIÓN
+# 15. PRIMERA SEMANA DE EJECUCIÓN
 
 Orden recomendado:
 
@@ -438,11 +537,12 @@ Orden recomendado:
 3. Qué Hacer en Baños — si llueve.
 4. Qué Hacer en Baños — un día.
 5. Turismo cultural en Baños.
-6. Actualizar La Casa del Duende / visitar.
-7. Actualizar Aldea Mágica / visitar.
-8. Actualizar Soy Tungurahua / que-hacer.
-9. Publicar pieza narrativa en Medium.
-10. Distribuir en redes con URLs específicas.
+6. Actualizar Turismo Tungurahua / Baños + Qué hacer + Agenda Cultural.
+7. Actualizar La Casa del Duende / visitar.
+8. Actualizar Aldea Mágica / visitar.
+9. Actualizar Soy Tungurahua / que-hacer.
+10. Publicar pieza narrativa en Medium.
+11. Distribuir en redes con URLs específicas.
 
 ---
 
